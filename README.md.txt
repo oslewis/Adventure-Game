@@ -10,3 +10,8 @@ Choose wisely.
 In order to play the game, python v3 is required.
 Once Python has been installed on your device, click the adventure_game.py file to run.
 
+## Contribution
+
+If you have any suggestions or bug submissions, kindly comment via issues topic section and you will be responed to shortly.
+
+Thank you :)
